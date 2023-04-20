@@ -8,7 +8,7 @@ The idea is to analyze and validate the different scenarios for a portfolio for 
 The current portfolio contains a combination of the following componentns: 
 
 - **STOCKs (ETF) $SPY (S&P 500 ETF)**            
-- **Bonds $AGG (Shares Core US Aggregate Bond ETF) **    
+- **Bonds $AGG (Shares Core US Aggregate Bond ETF)**    
 - **Crypto Currencies (ETH & BTC)**    
 
 
